@@ -4,3 +4,6 @@
 
 # labelme
 安装方式：pip install labellme  (使用python2*对应的pip安装，否则会报错)
+
+# fetch_roi_from_xml.py
+从xml文件中获得目标图像和label，为模型训练做准备
