@@ -9,7 +9,8 @@
 从xml文件中获得目标图像和label，为模型训练做准备
 
 
-#labelimg
+# labelimg
+
 1.安装python3,pip
 2.安装pyqt5(pip install pyqt5)
 3.安装lxml (pip install lxml)
